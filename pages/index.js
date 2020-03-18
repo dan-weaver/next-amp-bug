@@ -65,7 +65,7 @@ Home.getInitialProps = () => {
   return {
     content: [
       {
-        embed_html: '<script src="foo.bar"></script>'
+	      embed_html: '<script src="foo.bar"></script>'
       }
     ]
   };
